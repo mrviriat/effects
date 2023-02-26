@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/ParticleEffectForUGUI-4.1.7/ParticleEffectForUGUI-4.1.7/Samples/Demo/UIParticle_Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
